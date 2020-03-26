@@ -14,3 +14,8 @@ https://cameronnokes.com/blog/working-with-json-in-bash-using-jq/
 grep -rnw ./ -e 'Web Services Key'
 ```
 
+#### 5 Ways to Check Available Memory in Ubuntu
+https://vitux.com/5-ways-to-check-available-memory-in-ubuntu/
+```
+free -m
+```
