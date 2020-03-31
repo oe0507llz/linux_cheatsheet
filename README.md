@@ -19,3 +19,10 @@ https://vitux.com/5-ways-to-check-available-memory-in-ubuntu/
 ```
 free -m
 ```
+
+### Task Scheduling with Crontab on Mac
+Have to use `sudo`, otherwise it won't work:
+```
+sudo crontab -e
+sudo crontab -l
+```
