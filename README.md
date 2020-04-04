@@ -26,3 +26,9 @@ Have to use `sudo`, otherwise it won't work:
 sudo crontab -e
 sudo crontab -l
 ```
+
+#### Crontab run every 15 minutes except at 3AM?
+https://stackoverflow.com/questions/8764150/crontab-run-every-15-minutes-except-at-3am
+```
+*/15 0-2,4-23 * * * thejob
+```
