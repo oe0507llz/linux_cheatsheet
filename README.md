@@ -32,3 +32,5 @@ https://stackoverflow.com/questions/8764150/crontab-run-every-15-minutes-except-
 ```
 */15 0-2,4-23 * * * thejob
 ```
+#### What should I do to run a script on specific time without cron?
+https://unix.stackexchange.com/questions/511807/what-should-i-do-to-run-a-script-on-specific-time-without-cron
